@@ -1,5 +1,5 @@
 {
-    "name": "IMDB API agregation",
+    "name": "gabrieldeveloper/multi-plug-adapter",
     "require": {
         "php": ">=7.0",
         "guzzlehttp/guzzle": "~6.0",
